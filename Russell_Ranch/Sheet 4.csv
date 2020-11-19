@@ -1,0 +1,267 @@
+fertilizer_name,fertilizer_unit,soil_amendment_name,soil_amendment_unit,soil_amendment_amount
+1994_pm_compost,t/ha,Total C,%,18.13
+1995_pm_compost,t/ha,Total C,%,25.23
+1996_pm_compost,t/ha,Total C,%,22.04
+1997_pm_compost,t/ha,Total C,%,23.26
+2001_pm_compost,t/ha,EC,dS/m,6.9
+2001_pm_compost,t/ha,pH,No units,7.6
+2001_pm_compost,t/ha,Total B,ppm,38
+2001_pm_compost,t/ha,Total C,%,15.3
+2001_pm_compost,t/ha,Total Ca,%,2.48
+2001_pm_compost,t/ha,Total Cu,ppm,490
+2001_pm_compost,t/ha,Total Fe,ppm,5580
+2001_pm_compost,t/ha,Total K,%,1.81
+2001_pm_compost,t/ha,Total Mg,%,0.586
+2001_pm_compost,t/ha,Total Mn,ppm,682
+2001_pm_compost,t/ha,Total N,%,1.98
+2001_pm_compost,t/ha,Total P,%,1.4
+2001_pm_compost,t/ha,Total S,ppm,4480
+2001_pm_compost,t/ha,Total Zn,ppm,405
+2002_pm_compost,t/ha,EC,dS/m,7.8
+2002_pm_compost,t/ha,pH,No units,8
+2002_pm_compost,t/ha,Total B,ppm,37.8
+2002_pm_compost,t/ha,Total C,%,16.7
+2002_pm_compost,t/ha,Total Ca,%,2.47
+2002_pm_compost,t/ha,Total Cu,ppm,501
+2002_pm_compost,t/ha,Total Fe,ppm,5760
+2002_pm_compost,t/ha,Total K,%,1.79
+2002_pm_compost,t/ha,Total Mg,%,0.537
+2002_pm_compost,t/ha,Total Mn,ppm,685
+2002_pm_compost,t/ha,Total N,%,1.88
+2002_pm_compost,t/ha,Total P,%,1.4
+2002_pm_compost,t/ha,Total S,ppm,4420
+2002_pm_compost,t/ha,Total Zn,ppm,411
+2003_pm_compost,t/ha,EC,dS/m,6.5
+2003_pm_compost,t/ha,pH,No units,8.5
+2003_pm_compost,t/ha,Total B,ppm,34.5
+2003_pm_compost,t/ha,Total C,%,11.1
+2003_pm_compost,t/ha,Total Ca,%,2.26
+2003_pm_compost,t/ha,Total Cu,ppm,474
+2003_pm_compost,t/ha,Total Fe,ppm,6050
+2003_pm_compost,t/ha,Total K,%,1.55
+2003_pm_compost,t/ha,Total Mg,%,0.62
+2003_pm_compost,t/ha,Total Mn,ppm,624
+2003_pm_compost,t/ha,Total N,%,1.24
+2003_pm_compost,t/ha,Total P,%,1.23
+2003_pm_compost,t/ha,Total S,ppm,3760
+2003_pm_compost,t/ha,Total Zn,ppm,360
+2004_pm_compost,t/ha,EC,dS/m,7.2
+2004_pm_compost,t/ha,pH,No units,8.6
+2004_pm_compost,t/ha,Total B,ppm,45.1
+2004_pm_compost,t/ha,Total C,%,14.4
+2004_pm_compost,t/ha,Total Ca,%,2.76
+2004_pm_compost,t/ha,Total Cu,ppm,647
+2004_pm_compost,t/ha,Total Fe,ppm,5850
+2004_pm_compost,t/ha,Total K,%,2.03
+2004_pm_compost,t/ha,Total Mg,%,0.72
+2004_pm_compost,t/ha,Total Mn,ppm,726
+2004_pm_compost,t/ha,Total N,%,1.47
+2004_pm_compost,t/ha,Total P,%,1.43
+2004_pm_compost,t/ha,Total S,ppm,5050
+2004_pm_compost,t/ha,Total Zn,ppm,456
+2007_pm_compost,t/ha,EC,dS/m,7.4
+2007_pm_compost,t/ha,pH,No units,7.3
+2007_pm_compost,t/ha,Total B,ppm,36.1
+2007_pm_compost,t/ha,Total C,%,27.6
+2007_pm_compost,t/ha,Total Ca,%,1.78
+2007_pm_compost,t/ha,Total Cu,ppm,591
+2007_pm_compost,t/ha,Total Fe,ppm,3960
+2007_pm_compost,t/ha,Total K,%,1.86
+2007_pm_compost,t/ha,Total Mg,%,0.5
+2007_pm_compost,t/ha,Total Mn,ppm,540
+2007_pm_compost,t/ha,Total N,%,2.45
+2007_pm_compost,t/ha,Total P,%,1.08
+2007_pm_compost,t/ha,Total S,ppm,4620
+2007_pm_compost,t/ha,Total Zn,ppm,366
+2009_pm_compost,t/ha,EC,dS/m,7
+2009_pm_compost,t/ha,pH,No units,8.5
+2009_pm_compost,t/ha,Total B,ppm,48.6
+2009_pm_compost,t/ha,Total C,%,14.9
+2009_pm_compost,t/ha,Total Ca,%,2.56
+2009_pm_compost,t/ha,Total Cu,ppm,751
+2009_pm_compost,t/ha,Total Fe,ppm,7500
+2009_pm_compost,t/ha,Total K,%,1.97
+2009_pm_compost,t/ha,Total Mg,%,0.793
+2009_pm_compost,t/ha,Total Mn,ppm,793
+2009_pm_compost,t/ha,Total N,%,1.94
+2009_pm_compost,t/ha,Total P,%,1.59
+2009_pm_compost,t/ha,Total S,ppm,6400
+2009_pm_compost,t/ha,Total Zn,ppm,471
+2011_pm_compost,t/ha,EC,dS/m,23.6
+2011_pm_compost,t/ha,Total P,%,0.776
+2011_pm_compost,t/ha,pH,No units,6
+2011_pm_compost,t/ha,Total S,ppm,6200
+2011_pm_compost,t/ha,Total B,ppm,67.8
+2011_pm_compost,t/ha,Total C,%,32.44
+2011_pm_compost,t/ha,Total Ca,%,2.14
+2011_pm_compost,t/ha,Total Cu,ppm,123
+2011_pm_compost,t/ha,Total Fe,ppm,2770
+2011_pm_compost,t/ha,Total K,%,2.19
+2011_pm_compost,t/ha,Total Mg,%,0.595
+2011_pm_compost,t/ha,Total Mn,ppm,522
+2011_pm_compost,t/ha,Total N,%,2.76
+2011_pm_compost,t/ha,Total Na,%,0.635
+2011_pm_compost,t/ha,Total P,%,0.776
+2011_pm_compost,t/ha,Total Zn,ppm,393
+2012_pm_compost,t/ha,EC,dS/m,53.9
+2012_pm_compost,t/ha,Total K,%,1.25
+2012_pm_compost,t/ha,Total P,%,1.57
+2012_pm_compost,t/ha,pH,No units,7
+2012_pm_compost,t/ha,Total S,ppm,6900
+2012_pm_compost,t/ha,Total B,ppm,93.8
+2012_pm_compost,t/ha,Total C,%,18.68
+2012_pm_compost,t/ha,Total Ca,%,3.78
+2012_pm_compost,t/ha,Total Cu,ppm,459
+2012_pm_compost,t/ha,Total Fe,ppm,4550
+2012_pm_compost,t/ha,Total Mg,%,0.791
+2012_pm_compost,t/ha,Total Mn,ppm,681
+2012_pm_compost,t/ha,Total N,%,1.91
+2012_pm_compost,t/ha,Total Na,%,1.3
+2012_pm_compost,t/ha,Total Zn,ppm,517
+2013_pm_compost,t/ha,EC,dS/m,52.7
+2013_pm_compost,t/ha,K (K2O),%,2.57
+2013_pm_compost,t/ha,OM,%,67.1
+2013_pm_compost,t/ha,P (P2O5),%,4.14
+2013_pm_compost,t/ha,pH,No units,7
+2013_pm_compost,t/ha,Total S,ppm,6900
+2013_pm_compost,t/ha,Total B,ppm,97.9
+2013_pm_compost,t/ha,Total C,%,19.48
+2013_pm_compost,t/ha,Total Ca,%,4.36
+2013_pm_compost,t/ha,Total Cu,ppm,481
+2013_pm_compost,t/ha,Total Fe,ppm,4840
+2013_pm_compost,t/ha,Total K,%,2.14
+2013_pm_compost,t/ha,Total Mg,%,0.839
+2013_pm_compost,t/ha,Total Mn,ppm,726
+2013_pm_compost,t/ha,Total N,%,1.82
+2013_pm_compost,t/ha,Total Na,%,1.32
+2013_pm_compost,t/ha,Total P,%,1.81
+2013_pm_compost,t/ha,Total Zn,ppm,534
+2014_pm_compost,t/ha,EC,dS/m,25.6
+2014_pm_compost,t/ha,Total P,%,0.838
+2014_pm_compost,t/ha,pH,No units,6.3
+2014_pm_compost,t/ha,Total S,ppm,6400
+2014_pm_compost,t/ha,Total B,ppm,66.1
+2014_pm_compost,t/ha,Total C,%,22.5
+2014_pm_compost,t/ha,Total Ca,%,2.36
+2014_pm_compost,t/ha,Total Cu,ppm,100
+2014_pm_compost,t/ha,Total Fe,ppm,4430
+2014_pm_compost,t/ha,Total K,%,1.68
+2014_pm_compost,t/ha,Total Mg,%,0.535
+2014_pm_compost,t/ha,Total Mn,ppm,417
+2014_pm_compost,t/ha,Total N,%,2.72
+2014_pm_compost,t/ha,Total Na,%,0.39
+2014_pm_compost,t/ha,Total Zn,ppm,332
+2015_pm_compost,t/ha,pH,No units,6.8
+2015_pm_compost,t/ha,Total S,ppm,6500
+2015_pm_compost,t/ha,Total B,ppm,78.9
+2015_pm_compost,t/ha,Total C,%,19.67
+2015_pm_compost,t/ha,Total Ca,%,3.2
+2015_pm_compost,t/ha,Total Cu,ppm,227
+2015_pm_compost,t/ha,Total Fe,ppm,4690
+2015_pm_compost,t/ha,Total K,%,1.86
+2015_pm_compost,t/ha,Total Mg,%,0.708
+2015_pm_compost,t/ha,Total Mn,ppm,536
+2015_pm_compost,t/ha,Total N,%,2.13
+2015_pm_compost,t/ha,Total Na,%,0.702
+2015_pm_compost,t/ha,Total P,%,1.11
+2015_pm_compost,t/ha,Total Zn,ppm,468
+2001_pm_compost,t/ha,moisture,% w/w,0.308
+2002_pm_compost,t/ha,moisture,% w/w,0.201
+2003_pm_compost,t/ha,moisture,% w/w,0.222
+2004_pm_compost,t/ha,moisture,% w/w,0.288
+2005_pm_compost,t/ha,moisture,% w/w,0.24
+2006_pm_compost,t/ha,moisture,% w/w,0.198
+2011_pm_compost,t/ha,moisture,% w/w,0.258
+2012_pm_compost,t/ha,moisture,% w/w,0.242
+2013_pm_compost,t/ha,moisture,% w/w,0.328
+2014_pm_compost,t/ha,moisture,% w/w,0.107
+2015_pm_compost,t/ha,moisture,% w/w,0.224
+2018_pm_compost,t/ha,moisture,% w/w,0.292
+zinc_sulfate,kg/ha,N,%,0
+zinc_sulfate,kg/ha,P2O5,%,0
+zinc_sulfate,kg/ha,K2O,%,0
+zinc_sulfate,kg/ha,S,%,14
+zinc_sulfate,kg/ha,Ca,%,0
+zinc_sulfate,kg/ha,Zn,%,36
+zinc_sulfate,kg/ha,Mg,%,0
+zinc_sulfate,kg/ha,Cl,%,0
+ammonium_sulfate,kg/ha,N,%,21
+ammonium_sulfate,kg/ha,P2O5,%,0
+ammonium_sulfate,kg/ha,K2O,%,0
+ammonium_sulfate,kg/ha,S,%,24
+ammonium_sulfate,kg/ha,Ca,%,0
+ammonium_sulfate,kg/ha,Zn,%,0
+ammonium_sulfate,kg/ha,Mg,%,0
+ammonium_sulfate,kg/ha,Cl,%,0
+urea_granular,kg/ha,N,%,46
+urea_granular,kg/ha,P2O5,%,0
+urea_granular,kg/ha,K2O,%,0
+urea_granular,kg/ha,S,%,0
+urea_granular,kg/ha,Ca,%,0
+urea_granular,kg/ha,Zn,%,0
+urea_granular,kg/ha,Mg,%,0
+urea_granular,kg/ha,Cl,%,0
+ammonium_nitrate,kg/ha,N,%,35
+ammonium_nitrate,kg/ha,P2O5,%,0
+ammonium_nitrate,kg/ha,K2O,%,0
+ammonium_nitrate,kg/ha,S,%,0
+ammonium_nitrate,kg/ha,Ca,%,0
+ammonium_nitrate,kg/ha,Zn,%,0
+ammonium_nitrate,kg/ha,Mg,%,0
+ammonium_nitrate,kg/ha,Cl,%,0
+15_15_15_6,kg/ha,N,%,15
+15_15_15_6,kg/ha,P2O5,%,15
+15_15_15_6,kg/ha,K2O,%,15
+15_15_15_6,kg/ha,S,%,6
+15_15_15_6,kg/ha,Ca,%,0
+15_15_15_6,kg/ha,Zn,%,0
+15_15_15_6,kg/ha,Mg,%,0
+15_15_15_6,kg/ha,Cl,%,0
+triple_superphosphate,kg/ha,N,%,0
+triple_superphosphate,kg/ha,P2O5,%,45
+triple_superphosphate,kg/ha,K2O,%,0
+triple_superphosphate,kg/ha,S,%,0
+triple_superphosphate,kg/ha,Ca,%,15
+triple_superphosphate,kg/ha,Zn,%,0
+triple_superphosphate,kg/ha,Mg,%,0
+triple_superphosphate,kg/ha,Cl,%,0
+CAN_27,kg/ha,N,%,27
+CAN_27,kg/ha,P2O5,%,0
+CAN_27,kg/ha,K2O,%,0
+CAN_27,kg/ha,S,%,0
+CAN_27,kg/ha,Ca,%,4
+CAN_27,kg/ha,Zn,%,0
+CAN_27,kg/ha,Mg,%,1
+CAN_27,kg/ha,Cl,%,0
+UAN32,kg/ha,N,%,32
+UAN32,kg/ha,P2O5,%,0
+UAN32,kg/ha,K2O,%,0
+UAN32,kg/ha,S,%,0
+UAN32,kg/ha,Ca,%,0
+UAN32,kg/ha,Zn,%,0
+UAN32,kg/ha,Mg,%,0
+UAN32,kg/ha,Cl,%,0
+8_24_6,kg/ha,N,%,8
+8_24_6,kg/ha,P2O5,%,24
+8_24_6,kg/ha,K2O,%,6
+8_24_6,kg/ha,S,%,0
+8_24_6,kg/ha,Ca,%,0
+8_24_6,kg/ha,Zn,%,0
+8_24_6,kg/ha,Mg,%,0
+8_24_6,kg/ha,Cl,%,0
+0_32_16,kg/ha,N,%,0
+0_32_16,kg/ha,P2O5,%,32
+0_32_16,kg/ha,K2O,%,46
+0_32_16,kg/ha,S,%,0
+0_32_16,kg/ha,Ca,%,0
+0_32_16,kg/ha,Zn,%,0
+0_32_16,kg/ha,Mg,%,0
+0_32_16,kg/ha,Cl,%,0
+KCl,kg/ha,N,%,0
+KCl,kg/ha,P2O5,%,0
+KCl,kg/ha,K2O,%,60
+KCl,kg/ha,S,%,0
+KCl,kg/ha,Ca,%,0
+KCl,kg/ha,Zn,%,0
+KCl,kg/ha,Mg,%,0
+KCl,kg/ha,Cl,%,48
